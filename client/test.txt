@@ -1,0 +1,9 @@
+   d'abord j'ai commencé par faire des recherches sur des librairies pour pouvoir donner des effets visuels 
+comme pour le vrai flip board(par exemple quand on tourne une page)
+j'ai commencé avec canvas_react mais j'avais une erreur et j'ai pas réussi à l'arranger du coup je suis passé sur konva-react ou j'ai fait plusieurs tests.
+
+Puis j'ai voulu créer une card et essayer d'importer un article sur un site mais je n'ai pas encore réussi. 
+J'ai commencé à le faire à la main en faisant des get sur despages de news puis chercher des href et des liens pour les afficher
+
+Mais je pense peut être au final au lieu de le faire à la main, de le faire en utilisant une API directement comme newsAPI ou Bring news api.
+Je me suis inscrit sur les deux et j'ai crée mes clé pour le moment
